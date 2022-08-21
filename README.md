@@ -50,6 +50,7 @@ https://introcs.cs.princeton.edu/java/12types/
 https://edstem.org/us/courses/18194/lessons/29233/slides/167347
 
 Below is a list of attributions for the .png files that I used:
+
 Orange Paddle: <a href="https://www.flaticon.com/free-icons/line" title="line
 icons">Line icons created by Smashicons - Flaticon</a>
 
